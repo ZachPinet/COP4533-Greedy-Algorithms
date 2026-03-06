@@ -1,2 +1,3 @@
 FIFO  : 18
 LRU   : 20
+OPTFF : 14
